@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=740&lines=Olá%2C+eu+sou+Arthur+Chaves+Sousa+%F0%9F%91%8B;Analista+de+QA+%7C+Pesquisador+em+CC+%7C+Dev;Porto+Alegre%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=4000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=740&amp;lines=Olá%2C+eu+sou+Arthur+Chaves+Sousa+%F0%9F%91%8B;Analista+de+QA+%7C+Pesquisador+em+CC+%7C+Dev;Porto+Alegre%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
 <br/>
 
@@ -95,13 +95,13 @@ Analista de QA na Segdev, automatizando o ciclo completo de apólices de seguro 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oklama14&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oklama14&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oklama14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oklama14&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Oklama14&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Oklama14&amp;theme=github-dark-blue&amp;hide_border=true" />
 
 </div>
 
