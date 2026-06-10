@@ -19,7 +19,7 @@
 Mestrando em Ciência da Computação na PUCRS com pesquisa em Visualizações Narrativas em Realidade Virtual, UI/UX e IHC. Analista de QA na Segdev, onde automatizo o ciclo de apólices de seguro garantia. Nas horas vagas, construo ferramentas que resolvem problemas reais.
 
 - 🥽 Pesquisando **Visualizações Narrativas em ambientes de VR** — onde narrativa, imersão, UI/UX e IHC se cruzam
-- 🧪 **+39 fluxos automatizados** com Cypress na Segdev — análise de falhas com IA, mutações e rastreamento histórico
+- 🧪 **+39 fluxos automatizados** com Python na Segdev — análise de falhas com IA, mutações e rastreamento histórico
 - 🤖 Explorando **agentes de QA orientados por LLMs** e pipelines de automação integrados ao Jira
 - 🛠️ Projetos pessoais: **DevComply**, **LifeOS** e **Currículo** (AI Resume Tailor & Job Scraper)
 
