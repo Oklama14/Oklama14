@@ -16,12 +16,12 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-Analista de QA na Segdev, automatizando o ciclo completo de apólices de seguro garantia na plataforma VEGA. Mestrando em Ciência da Computação na PUCRS com foco em Engenharia de Software e IHC.
+Mestrando em Ciência da Computação na PUCRS com pesquisa em Visualizações Narrativas em Realidade Virtual, UI/UX e IHC. Analista de QA na Segdev, onde automatizo o ciclo de apólices de seguro garantia. Nas horas vagas, construo ferramentas que resolvem problemas reais.
 
-- 🧪 **+39 fluxos automatizados** com Cypress — análise de falhas com IA, teste de mutação e rastreamento histórico
-- 🎓 Pesquisando **ferramentas de conformidade com LGPD** e **avaliação de UX/IHC** — artigos submetidos ao IHC 2026
+- 🥽 Pesquisando **Visualizações Narrativas em ambientes de VR** — onde narrativa, imersão, UI/UX e IHC se cruzam
+- 🧪 **+39 fluxos automatizados** com Cypress na Segdev — análise de falhas com IA, mutações e rastreamento histórico
 - 🤖 Explorando **agentes de QA orientados por LLMs** e pipelines de automação integrados ao Jira
-- 🛠️ Desenvolvendo **DevComply** (assistente de conformidade com IA) e **LifeOS** (app de produtividade multiplataforma)
+- 🛠️ Projetos pessoais: **DevComply**, **LifeOS** e **Currículo** (AI Resume Tailor & Job Scraper)
 
 ---
 
@@ -43,18 +43,18 @@ Analista de QA na Segdev, automatizando o ciclo completo de apólices de seguro 
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Linguagens**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 **Banco de Dados & Ferramentas**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 **IA & APIs**
 
@@ -67,24 +67,34 @@ Analista de QA na Segdev, automatizando o ciclo completo de apólices de seguro 
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <h3>🛡️ <a href="https://github.com/Oklama14/DevComply">DevComply</a></h3>
-      <p>Assistente de conformidade com LGPD para desenvolvedores, alimentado por IA. Analisa código e documentação para identificar gaps de privacidade em tempo real. Nasceu do meu TCC de graduação.</p>
+      <p>Assistente de conformidade com LGPD para desenvolvedores, alimentado por IA. Analisa código e documentação para identificar gaps de privacidade em tempo real.</p>
       <p>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
-      <sub>📄 Submetido ao IHC 2026 — Trilha Ideias Inovadoras</sub>
+      <sub>📄 Submetido ao IHC 2026 — Ideias Inovadoras</sub>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <h3>🧠 <a href="https://github.com/Oklama14/LifeOS">LifeOS</a></h3>
-      <p>Sistema de produtividade pessoal para gerenciar metas, hábitos e rotinas diárias. Iniciado em React, migrando para Flutter para uma experiência nativa multiplataforma.</p>
+      <p>Sistema de produtividade pessoal para gerenciar metas, hábitos e rotinas diárias. Iniciado em React, migrando para Flutter para experiência nativa multiplataforma.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       </p>
-      <sub>🔄 Em desenvolvimento ativo — migrando para Flutter</sub>
+      <sub>🔄 Em desenvolvimento ativo</sub>
+    </td>
+    <td valign="top" width="33%">
+      <h3>📄 <a href="https://github.com/Oklama14/Curriculo">Currículo</a></h3>
+      <p>AI Resume Tailor & Job Scraper pessoal. Coleta vagas via web scraping (LinkedIn/Gupy), usa o Gemini para reescrever experiências com foco em palavras-chave e maximizar compatibilidade ATS. Currículo base em LaTeX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+      </p>
+      <sub>🎯 Scraping · Reescrita com IA · Otimização ATS</sub>
     </td>
   </tr>
 </table>
