@@ -1,124 +1,23 @@
-<div align="center">
+Analista de QA na Segdev, focado em automação de testes com Playwright e TypeScript.
+Mestrando em Ciência da Computação na PUCRS, pesquisando visualizações narrativas em realidade virtual.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=4000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=740&amp;lines=Oi%2C+eu+sou+Arthur+Chaves+Sousa+%F0%9F%91%8B;Analista+de+QA+%7C+Pesquisador+em+CC+%7C+Dev;Porto+Alegre%2C+Brasil" alt="Typing SVG" />
+Aberto a oportunidades em QA Automation / SDET — remoto ou Porto Alegre.
+[LinkedIn](https://www.linkedin.com/in/artcs14/) · [artcs2003@gmail.com](mailto:artcs2003@gmail.com)
 
-<br/>
+### Automação de testes
 
-![Visitors](https://komarev.com/ghpvc/?username=Oklama14&color=58A6FF&style=flat-square&label=Visualizações)
-&nbsp;
-![MSc](https://img.shields.io/badge/Mestrando_@_PUCRS-003366?style=flat-square&logo=google-scholar&logoColor=white)
-&nbsp;
-![QA](https://img.shields.io/badge/QA_@_Segdev-FF6B35?style=flat-square)
+**[devcomply-e2e](https://github.com/Oklama14/devcomply-e2e)** — 82 testes em Playwright sobre uma aplicação Angular/NestJS: interface, contrato de API, IDOR, rate limit e acessibilidade com axe-core. Autenticação via API com `storageState`, orçamento de requisições compartilhado entre workers, CI em matriz de três engines. [Relatório da última execução](https://oklama14.github.io/devcomply-e2e/).
 
-</div>
+**[vr-narrativas-e2e](https://github.com/Oklama14/vr-narrativas-e2e)** — 76 testes numa aplicação WebXR que vive dentro de um único `<canvas>`. Sem DOM e sem `getByRole`: a suíte projeta a posição 3D de cada entidade pela câmera ativa e clica no pixel resultante, deixando o raycaster resolver. Encontrou dois bugs de navegação cuja causa raiz é a proporção da viewport.
 
----
+No trabalho: mais de 39 fluxos do ciclo de apólices automatizados em Python, com mutation testing e análise de falhas assistida por LLM.
 
-## 🙋‍♂️ Sobre Mim
+### Outros projetos
 
-Mestrando em Ciência da Computação na PUCRS com pesquisa em Visualizações Narrativas em Realidade Virtual, UI/UX e IHC. Analista de QA na Segdev, onde automatizo o ciclo de apólices de seguro garantia. Nas horas vagas, construo ferramentas que resolvem problemas reais.
+**[DevComply](https://github.com/Oklama14/DevComply)** — assistente de conformidade com LGPD que analisa código e documentação em busca de gaps de privacidade. Submetido ao IHC 2026.
 
-- 🥽 Pesquisando **Visualizações Narrativas em ambientes de VR** — onde narrativa, imersão, UI/UX e IHC se cruzam
-- 🧪 **+39 fluxos automatizados** com Python na Segdev — análise de falhas com IA, mutações e rastreamento histórico
-- 🤖 Explorando **agentes de QA orientados por LLMs** e pipelines de automação integrados ao Jira
-- 🛠️ Projetos pessoais: **DevComply**, **LifeOS** e **Currículo** (AI Resume Tailor & Job Scraper)
+**[Currículo](https://github.com/Oklama14/Curriculo)** — pipeline que extrai requisitos de uma vaga, reescreve as experiências com LLM e gera o PDF final em LaTeX.
 
 ---
 
-## 🛠️ Tecnologias
-
-**Testes & QA**
-
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Linguagens**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-**Banco de Dados & Ferramentas**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**IA & APIs**
-
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge)
-
----
-
-## 📌 Projetos em Destaque
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>🛡️ <a href="https://github.com/Oklama14/DevComply">DevComply</a></h3>
-      <p>Assistente de conformidade com LGPD para desenvolvedores, alimentado por IA. Analisa código e documentação para identificar gaps de privacidade em tempo real.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-      </p>
-      <sub>📄 Submetido ao IHC 2026 — Ideias Inovadoras</sub>
-    </td>
-    <td valign="top" width="33%">
-      <h3>🧠 <a href="https://github.com/Oklama14/LifeOS">LifeOS</a></h3>
-      <p>Sistema de produtividade pessoal para gerenciar metas, hábitos e rotinas diárias. Iniciado em React, migrando para Flutter para experiência nativa multiplataforma.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      </p>
-      <sub>🔄 Em desenvolvimento ativo</sub>
-    </td>
-    <td valign="top" width="33%">
-      <h3>📄 <a href="https://github.com/Oklama14/Curriculo">Currículo</a></h3>
-      <p>AI Resume Tailor & Job Scraper pessoal. Coleta vagas via web scraping (LinkedIn/Gupy), usa o Gemini para reescrever experiências com foco em palavras-chave e maximizar compatibilidade ATS. Currículo base em LaTeX.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-      </p>
-      <sub>🎯 Scraping · Reescrita com IA · Otimização ATS</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oklama14&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oklama14&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Oklama14&amp;theme=github-dark-blue&amp;hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-  <sub><i>"I love when you count me out."</i></sub>
-  <br/>
-  <sub>⚽ Visca el Barça</sub>
-</div>
+Playwright · TypeScript · Python · k6 · Postman · axe-core · GitHub Actions · PostgreSQL · Angular · NestJS
