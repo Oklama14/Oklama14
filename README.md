@@ -2,7 +2,7 @@
 
 # Arthur Chaves Sousa
 
-**Analista de QA · Automação de Testes com Playwright e TypeScript**
+**Analista de QA · Automação de Testes com Playwright e Cypress**
 
 Porto Alegre, RS · Mestrando em Ciência da Computação @ PUCRS
 
